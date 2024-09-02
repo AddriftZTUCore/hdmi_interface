@@ -15,7 +15,7 @@ Modified by     :
 Modified date   : 
 Version         : 
 Description     : 
-*************************************Confidential. Do NOT disclose****************************/
+******************************Licensed under the GPL-3.0 License.******************************/
 `include "dmt_parameter.vh"
 
 module hdmi_if(
